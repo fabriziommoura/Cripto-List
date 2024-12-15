@@ -11,7 +11,6 @@ All you need to do is put the coin and the code will say if is a good price to B
 #
 
 # Technologies used
-## Back end
 - Google Apps Script
 
 # How to run:
