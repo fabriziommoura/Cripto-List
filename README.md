@@ -1,5 +1,6 @@
 # Cripto-List
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/fabriziommoura/microsoftrewardsbot/blob/main/LICENSE) 
+
 This is a CriptoCoins List made in Google Spreadsheets using AI and CoinMarketCap API.
 
 # About the project
