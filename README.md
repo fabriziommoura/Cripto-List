@@ -16,14 +16,11 @@ All you need to do is put the coin and the code will say if is a good price to B
 # How to run:
 
 ```bash
-# clonar repositório
-git clone https://github.com/fabriziommoura/sanchez
+# Copy the code to a Google Spreadsheets extension
 
-# entrar no projeto back end
-cd backend
+# Turn on the Clock activator to 5 Minutes
 
-# executar o projeto
-rewards.py spring-boot:run
+# Write the Coins and click Save.
 ```
 
 
